@@ -35,4 +35,4 @@ Comparação entre três abordagens de visão computacional:
 👉 [Clique aqui para acessar o notebook](LuanaBrito_rm566632_pbl_fase6.ipynb)
 
 ## Vídeo demonstrativo
-👉 [(https://youtu.be/ozSAAclu7tI*])
+👉 [(https://youtu.be/ozSAAclu7tI](https://youtu.be/ozSAAclu7tI)
